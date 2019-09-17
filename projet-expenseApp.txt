@@ -1,0 +1,16 @@
+** Projet expenseApp **
+
+Créer une application mobile native permettant de gérer ses (petites) dépenses quotidiennes.
+
+Une dépense:
+- date
+- montant
+- lieu
+- categorie
+- photo de la facture
+- commentaire
+
+L'application permettra
+- d'enregistrer (sur l'appareil), modifier, supprimer une dépense
+- de lister et totaliser les dépenses effectuées sur une plage chronologique donnée (semaine, mois, etc.)
+- de sauvegarder les dépenses sur un serveur web
